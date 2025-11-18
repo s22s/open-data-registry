@@ -14,11 +14,16 @@ Documentation: Documentation is available for this data at the [s22s/astraea-ope
 Contact: https://astraea.earth/
 ManagedBy: "[Astraea](https://astraea.earth/)"
 UpdateFrequency: New scenes are added daily.
+Collabs:
+  ASDI:
+    Tags:
+      - satellite imagery
 Tags:
+  - aws-pds
+  - agriculture
   - geospatial
   - satellite imagery
   - natural resource
-  - sustainability
   - disaster response
 License: There are no restrictions on the use of data, unless expressly identified prior to or at the time of receipt.
 Resources:
